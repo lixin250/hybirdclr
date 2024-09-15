@@ -1,0 +1,69 @@
+ScriptsOnlyBuild:
+  usedScripts:
+    Assembly-CSharp.dll:
+    - ConsoleToScreen
+    - Init
+    - LoadDll
+  serializedClasses: {}
+  methodsToPreserve: []
+  sceneClasses:
+    Assets/Scene/main.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 16690}
+    - Class: 114
+      Script: {instanceID: 16744}
+    - Class: 114
+      Script: {instanceID: 16770}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+  scriptHashData:
+  - hash:
+      serializedVersion: 2
+      Hash: 434f5530a5bb5b4c0331b3178e61c27b
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: Init
+  - hash:
+      serializedVersion: 2
+      Hash: f564a1760366c74e8006ca39368c4bca
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: LoadDll
+  - hash:
+      serializedVersion: 2
+      Hash: 0a87d3949779b0bdd52a34239d4e0470
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: ConsoleToScreen
+  - hash:
+      serializedVersion: 2
+      Hash: 82e1cb4532540bb70ac065a9cda2dbc9
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: AOTGenericReferences
+  - hash:
+      serializedVersion: 2
+      Hash: 682c78a6b1d5ca4332b8e511a99fabec
+    assemblyName: HotUpdate
+    namespaceName: 
+    className: Print
+  platform: 19
+  scenePathNames:
+  - Assets/Scene/main.unity
+  playerPath: F:/UnityProject/hybird_clr/project/HybridCLRData/StrippedAOTDllsTempProj/StandaloneWindows64/project.exe
